@@ -1,0 +1,18 @@
+@font-face {
+    font-family: nova;
+    src: url(./Red/media/NovaSquare-Regular.ttf);
+}
+.fontnova{
+    font-family: nova;
+}
+@font-face {
+    font-family: raj;
+    src: url(./Red/media/Rajdhani.ttf);
+}
+.fontraj{
+    font-family: raj;
+}
+.img_size{
+    width: 10rem;
+    object-fit: cover;
+}
