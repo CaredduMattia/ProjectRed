@@ -4,6 +4,7 @@
 }
 .fontnova{
     font-family: nova;
+    color: darkred;
 }
 @font-face {
     font-family: raj;
@@ -15,4 +16,22 @@
 .img_size{
     width: 10rem;
     object-fit: cover;
+}
+
+.bg_header{
+
+   background: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0) 80%), url(./Red/media/switzerland-862870_1920.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   /* height: 100vh;  */
+
+}
+
+
+.img_header{
+
+    width: 70rem;
+    /* height: 70vh; */
+    /* object-fit: cover; */
+
 }
