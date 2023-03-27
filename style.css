@@ -4,8 +4,14 @@
 }
 .fontnova{
     font-family: nova;
+    
+}
+
+.colorDarkRed{
     color: darkred;
 }
+
+
 @font-face {
     font-family: raj;
     src: url(./Red/media/Rajdhani.ttf);
@@ -38,4 +44,33 @@
     
 
 }
+
+
+.paragrafo{
+    max-width: 40%;
+}
+
+
+.cerchietto{
+    display: flex;
+    flex-direction: row;
+  }
+.cerchietto:before, .cerchietto:after{
+    content:"" ;
+    flex: 1 1;
+    border-bottom: 3px solid;
+    margin: auto;
+  }
+.cerchietto:before {
+    margin-right: 0px
+  }
+.cerchietto:after {
+    margin-left: 0px
+  }
+
+
+.cardsize{
+    height: 20vh;
+    width:15vw;
+  }
 
