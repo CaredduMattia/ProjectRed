@@ -37,11 +37,11 @@ body{
    /* height: 100vh;  */
 
 }
-h1 {
-    font-size: 80px;
-    letter-spacing: 2rem;
-    padding-left: 2rem;
-  }
+h1{
+    font-size: 70px;
+    text-align: center;
+
+}
 
 .img_header{
 
@@ -230,3 +230,9 @@ h1 {
     max-width: 88%;
     margin: 0 auto;
 }
+@media screen and (min-width: 453px) {
+        h1 {
+            letter-spacing: 2rem;
+            padding-left: 2rem;
+          }
+  }
