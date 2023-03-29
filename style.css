@@ -217,3 +217,16 @@ h1 {
     width: 100px;
     box-shadow: 0px 0px 0 7px #F8F9FA, 0px 0px 0 10px rgb(139,0,0);
 }
+
+.cornice_benefit{
+
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    box-shadow: 0px 0px 0 7px #F8F9FA, 0px 0px 0 10px rgb(139,0,0);
+}
+
+.benefit_title{
+    max-width: 88%;
+    margin: 0 auto;
+}
