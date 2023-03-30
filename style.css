@@ -22,6 +22,10 @@
 body{
     background-color: #ececec;
 }
+p{
+    font-size: larger;
+}
+
 .img_size{
     width: 10rem;
     object-fit: cover;
@@ -236,3 +240,15 @@ h1{
             padding-left: 2rem;
           }
   }
+
+
+.backGroundFooter{
+
+    background-color: rgb(139,0,0);
+}
+
+
+.footer_title{
+    max-width: 88%;
+    margin: 0 auto;
+}
