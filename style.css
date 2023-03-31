@@ -214,7 +214,7 @@ h1{
 
 .ourteam_title{
     max-width: 88%;
-    margin: 0 auto;
+    margin-left: 45px;
 }
 .bordi_ritratti{
     border-radius: 50%;
@@ -232,7 +232,7 @@ h1{
 
 .benefit_title{
     max-width: 88%;
-    margin: 0 auto;
+    margin-left: 45px;
 }
 @media screen and (min-width: 453px) {
         h1 {
@@ -250,5 +250,7 @@ h1{
 
 .footer_title{
     max-width: 88%;
-    margin: 0 auto;
+    margin-left: 35px;
 }
+
+
